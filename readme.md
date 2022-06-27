@@ -2,8 +2,6 @@
 
 I'm a Front End Developer
 
-## Other Common Github Profile Sections
-
 👨🏾‍💻 Here are my completed projects :
 
 - [Oh my food (Intégration maquette)](https://github.com/sparkddr/CamaraCamille_3_19012022)
