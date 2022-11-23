@@ -15,7 +15,7 @@ I'm a Front End Developer
 
 🧠 I'm currently learning...
 
-Next.js, Typescript, React Native.
+Typescript
 
 📫 How to reach me...
 
