@@ -11,7 +11,7 @@ I'm a Front End Developer
 - [La chouette agence (SEO optimization)](https://github.com/sparkddr/P4_CC)
 
 👨🏾‍💻 Here are some other works I did to practice :
-- [GitHub dashboard clone](https://github-dash-copy.netlify.app/)
+- [GitHub dashboard clone (try the SetStatus Menu 😉](https://github-dash-copy.netlify.app/)
 - [Laravel LandPage clone](https://larav-training.netlify.app/)
 
 
