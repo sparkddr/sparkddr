@@ -12,7 +12,7 @@ I'm a Front End Developer
 
 👨🏾‍💻 Here are some other works I did to practice :
 - [GitHub dashboard clone](https://github-dash-copy.netlify.app/)
-- [GitHub dashboard clone](https://larav-training.netlify.app/)
+- [Laravel LandPage clone](https://larav-training.netlify.app/)
 
 
 
