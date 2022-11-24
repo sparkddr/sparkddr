@@ -10,6 +10,9 @@ I'm a Front End Developer
 - [Oh my food (Front-end)](https://github.com/sparkddr/CamaraCamille_3_19012022)
 - [La chouette agence (SEO optimization)](https://github.com/sparkddr/P4_CC)
 
+👨🏾‍💻 Here are some other works I did to practice :
+- [GitHub dashboard clone](https://github-dash-copy.netlify.app/)
+- [GitHub dashboard clone](https://larav-training.netlify.app/)
 
 
 
