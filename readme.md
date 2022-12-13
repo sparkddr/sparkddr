@@ -11,6 +11,7 @@ I'm a Front End Developer
 - [La chouette agence (SEO optimization)](https://github.com/sparkddr/P4_CC)
 
 👨🏾‍💻 Here are some other works I did to practice :
+- [Canal Street clone (👨🏾‍💻In progress!) 🏆Awardd winning website](https://canal-street-copy.vercel.app/)
 - [GitHub dashboard clone (Test the SetStatus Menu 😉)](https://github-dash-copy.netlify.app/)
 - [Laravel LandPage clone](https://larav-training.netlify.app/)
 
